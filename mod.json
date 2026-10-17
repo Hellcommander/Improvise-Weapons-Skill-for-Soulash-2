@@ -1,0 +1,12 @@
+{
+	"author": "Arendeth",
+	"description": "Improvised Weapons: a combat skill for fighting with whatever is in hand. Sticks, pots, scissors, lutes and severed limbs become real weapons with swings, sweeps, throws and dirty tricks that need only an improvised weapon equipped. Passives scale improvised weapons, a Book of Improvised Weapons raises your potential, and the Scrapper's Yard trains the skill.",
+	"game_required": "0.10.0",
+	"icon": "icon.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Improvised Weapons",
+	"version": "0.1.0",
+	"thumbnail": "thumbnail.png"
+}

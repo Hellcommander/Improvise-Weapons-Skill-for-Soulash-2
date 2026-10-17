@@ -1,0 +1,37 @@
+{
+	"id": "arendeth_improvised_weapons_clear_the_table",
+	"name": "Clear the Table",
+	"description": "Sweep your makeshift weapon in a T shape, hitting up to 3 targets for ::damage ::damage_type damage and knocking them back.",
+	"target": "aoe_target",
+	"range": 1,
+	"effects": {
+		"damage": [
+			3,
+			6
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.25,
+		"aoe_range": 1,
+		"aoe_shape": 2,
+		"knockback": 1
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"cast_time": 1.0,
+	"cooldown": 8.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_clear_the_table_fx",
+	"image": 2
+}

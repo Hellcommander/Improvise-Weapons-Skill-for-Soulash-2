@@ -1,0 +1,35 @@
+{
+	"id": "arendeth_improvised_weapons_hurl_it",
+	"name": "Hurl It",
+	"description": "Throw what is in your hand at a target ::range tiles away for ::damage ::damage_type damage and a ::stun-turn stun.",
+	"target": "line_health",
+	"range": 5,
+	"effects": {
+		"damage": [
+			3,
+			7
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.25,
+		"stun": 1.0
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"cast_time": 1.0,
+	"cooldown": 9.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_hurl_it_fx",
+	"image": 4
+}

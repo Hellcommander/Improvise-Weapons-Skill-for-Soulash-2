@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_hurl_it",
+	"name": "Hurl It",
+	"requirements": {
+		"milestones": [],
+		"skill": 8
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_improvised_weapons_hurl_it"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

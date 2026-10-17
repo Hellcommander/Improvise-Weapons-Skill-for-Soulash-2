@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_wild_swing",
+	"name": "Wild Swing",
+	"requirements": {
+		"milestones": [],
+		"skill": 1
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_improvised_weapons_wild_swing"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

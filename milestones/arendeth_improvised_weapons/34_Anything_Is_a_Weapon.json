@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_anything_is_a_weapon",
+	"name": "Anything Is a Weapon",
+	"requirements": {
+		"milestones": [],
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_anything_is_a_weapon"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

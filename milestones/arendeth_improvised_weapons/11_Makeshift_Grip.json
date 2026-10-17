@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_makeshift_grip",
+	"name": "Makeshift Grip",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_makeshift_grip"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_clear_the_table",
+	"name": "Clear the Table",
+	"requirements": {
+		"milestones": [],
+		"skill": 4
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_improvised_weapons_clear_the_table"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

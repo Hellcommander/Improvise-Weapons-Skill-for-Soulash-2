@@ -1,0 +1,77 @@
+{
+	"camera_shake": {
+		"bounces": 4,
+		"duration": 0.25,
+		"power": 3,
+		"type": 1
+	},
+	"chain_particles": false,
+	"id": "arendeth_improvised_weapons_clear_the_table_fx",
+	"ignore_roof": true,
+	"name": "Clear the Table FX",
+	"sound": {
+		"id": "18",
+		"volume": 100
+	},
+	"particles": [
+		{
+			"color": [
+				[
+					230,
+					200,
+					140,
+					255
+				]
+			],
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 753,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					230,
+					200,
+					140,
+					255
+				]
+			],
+			"delay": 50.0,
+			"flags": 8,
+			"life": 50.0,
+			"tile_id": 752,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					230,
+					200,
+					140,
+					255
+				]
+			],
+			"delay": 100.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 753,
+			"velocity": 200.0
+		},
+		{
+			"color": [
+				[
+					230,
+					200,
+					140,
+					255
+				]
+			],
+			"delay": 150.0,
+			"flags": 0,
+			"life": 50.0,
+			"tile_id": 752,
+			"velocity": 200.0
+		}
+	]
+}

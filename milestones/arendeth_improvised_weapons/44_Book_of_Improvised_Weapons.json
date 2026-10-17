@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_book_of_improvised_weapons",
+	"name": "Book of Improvised Weapons",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_improvised_weapons_book_of_improvised_weapons"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

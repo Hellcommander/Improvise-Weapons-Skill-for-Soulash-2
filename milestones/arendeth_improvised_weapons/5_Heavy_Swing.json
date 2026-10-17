@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_heavy_swing",
+	"name": "Heavy Swing",
+	"requirements": {
+		"milestones": [],
+		"skill": 5
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_improvised_weapons_heavy_swing"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

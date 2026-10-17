@@ -1,0 +1,165 @@
+[
+	{
+		"id": "arendeth_improvised_weapons_mastery",
+		"name": "Improvised Weapons Mastery",
+		"image": 0,
+		"effects": [
+			{
+				"effect": "statistic_percent",
+				"value": "strength",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "dexterity",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "endurance",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "intelligence",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "willpower",
+				"secondary_value": 0.1
+			}
+		]
+	},
+	{
+		"id": "arendeth_improvised_weapons_thick_skinned",
+		"name": "Thick Skinned",
+		"image": 1,
+		"effects": [
+			{
+				"effect": "health_bonus_percent",
+				"value": 0.1
+			}
+		]
+	},
+	{
+		"id": "arendeth_improvised_weapons_pack_rat",
+		"name": "Pack Rat",
+		"image": 2,
+		"effects": [
+			{
+				"effect": "carry_capacity",
+				"value": 20
+			},
+			{
+				"effect": "extra_backpack_slots",
+				"value": 2
+			}
+		]
+	},
+	{
+		"id": "arendeth_improvised_weapons_scrappers_resolve",
+		"name": "Scrapper's Resolve",
+		"image": 3,
+		"effects": [
+			{
+				"effect": "regeneration_low_health",
+				"value": 0.2
+			},
+			{
+				"effect": "damage_reduction_missing_health",
+				"value": 0.04,
+				"secondary_value": 0.1
+			}
+		]
+	},
+	{
+		"id": "arendeth_improvised_weapons_makeshift_grip",
+		"name": "Makeshift Grip",
+		"image": 4,
+		"effects": [
+			{
+				"effect": "bonus_one_handed_damage_percent",
+				"value": 25
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_opportunist",
+		"name": "Opportunist",
+		"image": 5,
+		"effects": [
+			{
+				"effect": "hit_bonus",
+				"value": 2
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_scrap_parry",
+		"name": "Scrap Parry",
+		"image": 6,
+		"effects": [
+			{
+				"effect": "parry",
+				"value": 2
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_building_momentum",
+		"name": "Building Momentum",
+		"image": 7,
+		"effects": [
+			{
+				"effect": "on_attack_stack",
+				"value": "arendeth_improvised_weapons_momentum"
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_heavy_handed",
+		"name": "Heavy Handed",
+		"image": 8,
+		"effects": [
+			{
+				"effect": "damage_to_effect",
+				"value": "stun",
+				"secondary_value": 0.25
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_anything_is_a_weapon",
+		"name": "Anything Is a Weapon",
+		"image": 9,
+		"effects": [
+			{
+				"effect": "bonus_attack",
+				"value": 0.15
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	},
+	{
+		"id": "arendeth_improvised_weapons_dirty_fighter",
+		"name": "Dirty Fighter",
+		"image": 10,
+		"effects": [
+			{
+				"effect": "critical_hit",
+				"value": 0.08
+			},
+			{
+				"effect": "critical_damage",
+				"value": 0.25
+			}
+		],
+		"restrict_weapon_type": "improvised"
+	}
+]

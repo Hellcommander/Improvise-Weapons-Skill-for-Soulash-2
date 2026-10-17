@@ -1,0 +1,36 @@
+{
+	"id": "arendeth_improvised_weapons_dirty_trick",
+	"name": "Dirty Trick",
+	"description": "Sand in the eyes, a kick to the shin: ::damage ::damage_type damage, the target is rattled (-::hit_chance hit chance) and slowed for ::duration turns.",
+	"target": "health",
+	"range": 1,
+	"effects": {
+		"damage": [
+			0,
+			3
+		],
+		"damage_type": "physical",
+		"damage_weapon": 0.5,
+		"hit_chance": 3,
+		"movement_speed": 0.4
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"cast_time": -1.0,
+	"cooldown": 12.0,
+	"duration": 5.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"animation": "arendeth_improvised_weapons_dirty_trick_fx",
+	"image": 3
+}

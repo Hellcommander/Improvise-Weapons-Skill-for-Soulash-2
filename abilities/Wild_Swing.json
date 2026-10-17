@@ -1,0 +1,34 @@
+{
+	"id": "arendeth_improvised_weapons_wild_swing",
+	"name": "Wild Swing",
+	"description": "Swing whatever is in your hand for ::damage ::damage_type damage.",
+	"target": "health",
+	"range": -1,
+	"effects": {
+		"damage": [
+			2,
+			5
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.5
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"cast_time": -1.0,
+	"cooldown": 3.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_wild_swing_fx",
+	"image": 0
+}

@@ -1,0 +1,72 @@
+[
+	{
+		"id": "arendeth_improvised_weapons",
+		"name": "Improvised Weapons",
+		"image": 0,
+		"description": "Anything can be a weapon in the right hands. Sticks, pots, scissors, lutes, even a severed arm: this skill turns them into real weapons, with swings, sweeps, throws and dirty tricks that work with any improvised weapon in hand.\n\nYou can train this skill by using abilities and attacking with improvised weapons.\n\nYou start at level 10. To go further, craft a Book of Improvised Weapons once you reach level 44 and study it.",
+		"combat_skill": true,
+		"exp_sources": [
+			{
+				"id": "attack",
+				"weapon_type": 8,
+				"rate": 1
+			},
+			{
+				"id": "ability",
+				"rate": 2
+			}
+		],
+		"stat_points": [
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50
+		],
+		"difficulty": 0,
+		"starting_gear": [
+			{
+				"first": {
+					"id": "core_2_Stick",
+					"amount": 1
+				}
+			}
+		],
+		"weapon_type": 8
+	}
+]

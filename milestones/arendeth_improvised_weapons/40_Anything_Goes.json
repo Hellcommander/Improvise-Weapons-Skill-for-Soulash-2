@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_anything_goes",
+	"name": "Anything Goes",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_improvised_weapons_anything_goes"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

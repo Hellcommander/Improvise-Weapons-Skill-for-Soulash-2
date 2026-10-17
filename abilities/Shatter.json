@@ -1,0 +1,36 @@
+{
+	"id": "arendeth_improvised_weapons_shatter",
+	"name": "Shatter",
+	"description": "Put everything into one blow for ::damage ::damage_type damage. The target bleeds and is left vulnerable for ::duration turns.",
+	"target": "health",
+	"range": -1,
+	"effects": {
+		"damage": [
+			6,
+			10
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.5,
+		"bleed": 1,
+		"vulnerable": 1
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"cast_time": 1.0,
+	"cooldown": 14.0,
+	"duration": 5.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"animation": "arendeth_improvised_weapons_shatter_fx",
+	"image": 8
+}

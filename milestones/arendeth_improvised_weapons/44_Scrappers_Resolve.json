@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_scrappers_resolve",
+	"name": "Scrapper's Resolve",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_scrappers_resolve"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

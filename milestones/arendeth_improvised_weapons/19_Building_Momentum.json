@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_building_momentum",
+	"name": "Building Momentum",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_building_momentum"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

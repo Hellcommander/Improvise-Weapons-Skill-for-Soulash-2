@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_pack_rat",
+	"name": "Pack Rat",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_pack_rat"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

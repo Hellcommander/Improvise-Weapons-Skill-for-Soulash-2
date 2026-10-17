@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_mastery",
+	"name": "Improvised Weapons Mastery",
+	"requirements": {
+		"milestones": [],
+		"skill": 30
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_mastery"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

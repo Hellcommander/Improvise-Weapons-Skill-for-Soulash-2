@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_knock_loose",
+	"name": "Knock Loose",
+	"requirements": {
+		"milestones": [],
+		"skill": 7
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_improvised_weapons_knock_loose"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

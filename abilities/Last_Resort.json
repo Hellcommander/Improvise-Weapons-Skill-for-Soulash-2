@@ -1,0 +1,35 @@
+{
+	"id": "arendeth_improvised_weapons_last_resort",
+	"name": "Last Resort",
+	"description": "A desperate, vicious swing for ::damage ::damage_type damage. Heals you for a share of the damage dealt.",
+	"target": "health",
+	"range": -1,
+	"effects": {
+		"damage": [
+			8,
+			14
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.5,
+		"damage_as_life": 0.5
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"cast_time": 1.0,
+	"cooldown": 16.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_last_resort_fx",
+	"image": 7
+}

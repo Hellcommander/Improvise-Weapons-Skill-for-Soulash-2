@@ -1,0 +1,39 @@
+{
+	"id": "arendeth_improvised_weapons_anything_goes",
+	"name": "Anything Goes",
+	"description": "Bring the whole room down on them: ::damage ::damage_type damage to everyone within ::aoe_range tiles, knocked back and stunned. Resets on a kill.",
+	"target": "aoe_self",
+	"range": 0,
+	"effects": {
+		"damage": [
+			10,
+			16
+		],
+		"damage_type": "physical",
+		"damage_weapon": 2.5,
+		"aoe_range": 3,
+		"aoe_shape": 4,
+		"knockback": 2,
+		"stun": 1.5,
+		"reset_cooldown_on_kill": 1
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 16
+	},
+	"cast_time": 1.0,
+	"cooldown": 22.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_anything_goes_fx",
+	"image": 9
+}

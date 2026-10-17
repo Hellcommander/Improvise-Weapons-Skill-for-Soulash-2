@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_splintering",
+	"name": "Splintering",
+	"requirements": {
+		"milestones": [],
+		"skill": 3
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_improvised_weapons_splintering"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_blunt_instrument",
+	"name": "Blunt Instrument",
+	"requirements": {
+		"milestones": [],
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_improvised_weapons_blunt_instrument"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"id": "arendeth_improvised_weapons_momentum",
+		"name": "Momentum",
+		"image": 0,
+		"effects": [
+			{
+				"effect": "damage_bonus_percent",
+				"value": 0.03
+			}
+		],
+		"max_stacks": 6,
+		"apply_caster": true,
+		"duration": 6,
+		"description": "Each hit with a makeshift weapon builds momentum: +3% damage per stack."
+	}
+]

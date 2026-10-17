@@ -1,0 +1,90 @@
+[
+	{
+		"id": "arendeth_improvised_weapons_splintering",
+		"name": "Splintering",
+		"type": "offensive",
+		"bonuses": [
+			{
+				"effect": "bleed",
+				"value": 1
+			}
+		],
+		"image": 0,
+		"description": "Splinters and jagged edges: the hit causes bleeding."
+	},
+	{
+		"id": "arendeth_improvised_weapons_heavy_swing",
+		"name": "Heavy Swing",
+		"type": "offensive",
+		"bonuses": [
+			{
+				"effect": "damage_bonus_percent",
+				"value": 0.2
+			}
+		],
+		"image": 1,
+		"cost_stamina": 2,
+		"description": "Put your back into it: +20% damage, costs more stamina."
+	},
+	{
+		"id": "arendeth_improvised_weapons_knock_loose",
+		"name": "Knock Loose",
+		"type": "offensive",
+		"bonuses": [
+			{
+				"effect": "knockback",
+				"value": 1
+			}
+		],
+		"image": 2,
+		"description": "The target is knocked back 1 tile."
+	},
+	{
+		"id": "arendeth_improvised_weapons_quick_grab",
+		"name": "Quick Grab",
+		"type": "utility",
+		"bonuses": [],
+		"image": 3,
+		"cooldown": -2.0,
+		"description": "Always something within reach: -2 cooldown."
+	},
+	{
+		"id": "arendeth_improvised_weapons_winded",
+		"name": "Winded",
+		"type": "utility",
+		"bonuses": [
+			{
+				"effect": "burn_stamina",
+				"value": 20
+			}
+		],
+		"image": 4,
+		"description": "A blow to the gut drains 20 stamina from the target."
+	},
+	{
+		"id": "arendeth_improvised_weapons_rattling",
+		"name": "Rattling",
+		"type": "offensive",
+		"bonuses": [
+			{
+				"effect": "stun",
+				"value": 1
+			}
+		],
+		"image": 5,
+		"description": "The blow rings the target's skull: +1 turn stun."
+	},
+	{
+		"id": "arendeth_improvised_weapons_reckless",
+		"name": "Reckless",
+		"type": "offensive",
+		"bonuses": [
+			{
+				"effect": "ability_can_crit",
+				"value": 1
+			}
+		],
+		"image": 6,
+		"description": "The ability can critically hit."
+	}
+]

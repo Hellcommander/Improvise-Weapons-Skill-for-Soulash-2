@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_winded",
+	"name": "Winded",
+	"requirements": {
+		"milestones": [],
+		"skill": 12
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_improvised_weapons_winded"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

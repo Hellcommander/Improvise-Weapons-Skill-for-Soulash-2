@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_improvised_weapons_opportunist",
+	"name": "Opportunist",
+	"requirements": {
+		"milestones": [],
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_improvised_weapons_opportunist"
+		}
+	],
+	"skill_id": "arendeth_improvised_weapons",
+	"steps": [],
+	"steps_type": 0
+}

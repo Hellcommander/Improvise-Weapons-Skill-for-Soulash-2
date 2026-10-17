@@ -1,0 +1,37 @@
+{
+	"id": "arendeth_improvised_weapons_fighting_dirty",
+	"name": "Fighting Dirty",
+	"description": "Spin through the crowd swinging anything to hand: ::damage ::damage_type damage to everyone within ::aoe_range tiles and a short stun.",
+	"target": "aoe_self",
+	"range": 0,
+	"effects": {
+		"damage": [
+			4,
+			8
+		],
+		"damage_type": "physical",
+		"damage_weapon": 1.75,
+		"aoe_range": 2,
+		"aoe_shape": 4,
+		"stun": 1.0
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 12
+	},
+	"cast_time": 1.0,
+	"cooldown": 14.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"duration": 0.0,
+	"animation": "arendeth_improvised_weapons_fighting_dirty_fx",
+	"image": 6
+}

@@ -1,0 +1,30 @@
+{
+	"id": "arendeth_improvised_weapons_make_do",
+	"name": "Make Do",
+	"description": "Settle into the grip of your makeshift weapon: +::damage_bonus_percent damage and faster attacks for ::duration turns.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"damage_bonus_percent": 0.25,
+		"attack_speed": 0.2
+	},
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"cast_time": 0.5,
+	"cooldown": 20.0,
+	"duration": 8.0,
+	"requirements": {
+		"one_of": [
+			9
+		]
+	},
+	"skill": "arendeth_improvised_weapons",
+	"slots": {
+		"offensive": 1,
+		"utility": 1
+	},
+	"animation": "arendeth_improvised_weapons_make_do_fx",
+	"image": 5
+}
