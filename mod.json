@@ -7,6 +7,7 @@
 		"core_2"
 	],
 	"name": "Improvised Weapons",
-	"version": "0.1.0",
-	"thumbnail": "thumbnail.png"
+	"steam_publish_id": 3821941430,
+	"thumbnail": "thumbnail.png",
+	"version": "0.1.0"
 }
